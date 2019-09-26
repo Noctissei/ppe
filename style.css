@@ -1,0 +1,53 @@
+body{
+
+	background-color:#75cfc1;
+	font-family: Helvetica;
+}
+
+#menu{
+	background-color:black;
+	font-size: 20px;
+	height: 50px;
+}
+
+#titre{
+	color: white;
+}
+
+#formTitre{
+	margin-left:35%;
+}
+
+#divForm{
+	
+}
+
+#divFormInterieur{
+	margin-left:3%;
+}
+
+#form{
+	background-color: #374744;
+	height: 100px;
+	width: 300px;
+	margin-left: 35%;
+	margin-right: 35%;
+	border-radius: 8px;
+	color: white;
+	
+	
+}	
+
+#formMdp{
+	
+}
+
+#formNom{
+	margin-top: 5%;
+}
+
+#formSubmit{
+	margin-top:5%;
+	margin-left: 65%;
+	
+}
